@@ -1,0 +1,123 @@
+@keyframes mymove {
+    0% {top: 0px;}
+    50%{opacity: 0.5;}
+    100% {top: 60px;
+    opacity: 0.1;
+    }
+  }
+
+  @keyframes visible {
+    0%{
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+    
+}
+
+
+
+  @keyframes name1 {
+    0%{content: "i";}
+    1%{content: "i'";}
+    2%{content: "i'm";}
+    3%{content: "i'm S";}
+    4%{content: "i'm Si";}
+    5%{content: "i'm Sim";}
+    6%{content: "i'm Simo";}
+    7%{content: "i'm Simon";}
+    8%{content: "i'm Simone";}
+    9%{content: "i'm Simone ";}
+    10%{content: "i'm Simone  ";}
+    11%{content: "i'm Simone O ";}
+    12%{content: "i'm Simone Ol ";}
+    13%{content: "i'm Simone Oli ";}
+    14%{content: "i'm Simone Oliv ";}
+    15%{content: "i'm Simone Olivi ";}
+    16%{content: "i'm Simone Olivia ";}
+    17%{content: "i'm Simone Olivia ";}
+    18%{content: "i'm Simone Olivia ";}
+    19%{content: "i'm Simone Olivia ";}
+    20%{content: "i'm Simone Olivia ";}
+    21%{content: "i'm Simone Olivia ";}
+    22%{content: "i'm Simone Olivia ";}
+    23%{content: "i'm Simone Olivi ";}
+    24%{content: "i'm Simone Oliv ";}
+    25%{content: "i'm Simone Oli ";}
+    26%{content: "i'm Simone Ol ";}
+    27%{content: "i'm Simone O ";}
+    28%{content: "i'm Simone  ";}
+    29%{content: "i'm Simone ";}
+    30%{content: "i'm Simon ";}
+    31%{content: "i'm Simo ";}
+    32%{content: "i'm Sim ";}
+    33%{content: "i'm Si ";}
+    34%{content: "i'm S ";}
+    35%{content: "i'm  ";}
+    36%{content: "i'm ";}
+    37%{content: "i' ";}
+    38%{content: "i' ";}
+    39%{content: "i ";}
+    40%{content: "i ";}
+    41%{content: "i";}
+    42%{content: "i'";}
+    43%{content: "i'm";}
+    44%{content: "i'm ";}
+    45%{content: "i'm a";}
+    46%{content: "i'm ade";}
+    47%{content: "i'm ades";}
+    48%{content: "i'm adesi";}
+    49%{content: "i'm adesig";}
+    50%{content: "i'm adesign";}
+    51%{content: "i'm adesigne";}
+    52%{content: "i'm adesigner";}
+    53%{content: "i'm adesigne";}
+    54%{content: "i'm adesign";}
+    55%{content: "i'm adesig";}
+    56%{content: "i'm adesi";}
+    57%{content: "i'm ades";}
+    58%{content: "i'm ad";}
+    59%{content: "i'm a";}
+    60%{content: "i'm ";}
+    61%{content: "i'm";}
+    62%{content: "i'";}
+    63%{content: "i'";}
+    64%{content: "i";}
+    65%{content: "i";}
+    66%{content: "i";}
+    67%{content: "i'";}
+    68%{content: "i'm";}
+    69%{content: "i'm ";}
+    70%{content: "i'm a";}
+    71%{content: "i'm a ";}
+    72%{content: "i'm a p";}
+    73%{content: "i'm a ph";}
+    74%{content: "i'm a pho";}
+    75%{content: "i'm a phot";}
+    76%{content: "i'm a photo";}
+    77%{content: "i'm a photog";}
+    78%{content: "i'm a photogr";}
+    79%{content: "i'm a photogra";}
+    80%{content: "i'm a photograp";}
+    81%{content: "i'm a photograph";}
+    82%{content: "i'm a photographe";}
+    83%{content: "i'm a photographer";}
+    84%{content: "i'm a photographe";}
+    85%{content: "i'm a photograph";}
+    860%{content: "i'm a photograp";}
+    87%{content: "i'm a photogra";}
+    88%{content: "i'm a photogr";}
+    89%{content: "i'm a photog";}
+    90%{content: "i'm a photo";}
+    91%{content: "i'm a phot";}
+    92%{content: "i'm a pho";}
+    93%{content: "i'm a ph";}
+    94%{content: "i'm a p";}
+    95%{content: "i'm a ";}
+    96%{content: "i'm a";}
+    97%{content: "i'm ";}
+    98%{content: "i'm";}
+    99%{content: "i'";}
+    100%{content: "i' ";}
+}
