@@ -1084,7 +1084,7 @@ ul {
 
 /* ------- media query ------------------- */
 
-@media screen and (max-width: 575.98px) {
+@media screen and (max-width: 767px) {
 	.nav-bar .nav-list {
 		display: none;
 	}
@@ -1315,7 +1315,7 @@ ul {
 	}
 }
 /* *********************************************** */
-@media screen and (min-width: 576px) and (max-width: 767.98px) {
+@media screen and (min-width: 600px) and (max-width: 767.98px) {
 	.nav-bar .nav-list {
 		display: none;
 	}
@@ -1616,23 +1616,7 @@ ul {
 	.services .container {
 		width: 85%;
 	}
-	.services .about-one {
-		width: 100%;
-	}
-	.services .about-one h2 {
-		font-size: 6rem;
-	}
-	.services .about-one p {
-		top: 25%;
-	}
-	.services .about-one .hr-line {
-		top: 70%;
-		width: 15%;
-	}
 
-	.services .container .itemx .item-data {
-		width: 70%;
-	}
 
 	.summary .container {
 		width: 80%;
