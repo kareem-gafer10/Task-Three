@@ -45,7 +45,6 @@ ul {
 .super-main {
 	width: 100%;
 	height: 100vh;
-	background-color: aqua;
 	position: relative;
 	background-image: url(images/intro-bg.jpg);
 	background-repeat: no-repeat;
